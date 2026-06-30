@@ -10,7 +10,7 @@ A simple, interactive birthday greeting card built with HTML and CSS.
 - Clickable buttons that show different sections using `:target`
 
 ## Live Demo
-(https://cnelous.github.io/GreetingCard/
+https://cnelous.github.io/GreetingCard/
 
 ## Technologies Used
 - HTML5
